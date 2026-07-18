@@ -1,0 +1,501 @@
+campaign_id,client_id,campaign_name,channel,start_date,end_date,budget_idr,actual_spend_idr,objective,status
+CAM0001,CLT029,Harbolnas 2023,Instagram,2023-06-02,2023-08-16,12000000,12173077,lead_gen,completed
+CAM0002,CLT005,Brand Awareness Q4,Facebook,2022-11-07,2022-12-10,41000000,42632830,traffic,active
+CAM0003,CLT008,Independence Day 2023,YouTube,2023-04-08,2023-06-27,29000000,27262983,conversions,completed
+CAM0004,CLT038,New Year Campaign 2022,TikTok,2022-05-04,2022-05-30,18000000,17551854,awareness,completed
+CAM0005,CLT011,Conversion Boost 2022,IG,2022-06-03,2022-07-07,5000000,4658517,app_installs,completed
+CAM0006,CLT031,Brand Awareness Q3,Instagram,2023-08-14,2023-10-03,49000000,50074145,traffic,completed
+CAM0007,CLT017,App Install Drive 2023,LinkedIn,2023-02-10,2023-04-19,12000000,11506949,traffic,completed
+CAM0008,CLT018,Retargeting Q2,Facebook,2022-05-03,2022-06-07,24000000,23256211,app_installs,completed
+CAM0009,CLT019,Independence Day 2023,YouTube,2023-09-15,2023-11-19,22000000,20902077,lead_gen,completed
+CAM0010,CLT006,App Install Drive 2023,YouTube,2023-10-23,2023-12-08,6000000,5209592,app_installs,active
+CAM0011,CLT038,Independence Day 2022,TikTok,2022-03-24,2022-04-29,35000000,33382746,conversions,completed
+CAM0012,CLT012,Back to School 2024,YouTube,2024-10-04,2024-10-29,35000000,32185727,conversions,active
+CAM0013,CLT043,App Install Drive 2023,Instagram,2023-11-07,2024-01-12,49000000,46505596,lead_gen,completed
+CAM0014,CLT049,Awareness Launch 2022,YouTube,2022-06-30,2022-08-23,21000000,19207749,lead_gen,completed
+CAM0015,CLT033,Back to School 2024,Facebook,2024-08-04,2024-10-09,8000000,7100132,app_installs,completed
+CAM0016,CLT049,Holiday Sale 2022,YouTube,2022-04-16,2022-05-26,22000000,21116566,conversions,paused
+CAM0017,CLT029,Year End Promo 2022,YouTube,2022-09-06,2022-09-23,45000000,43729845,traffic,active
+CAM0018,CLT020,Holiday Sale 2024,LinkedIn,2024-04-15,2024-05-10,19000000,19920577,awareness,completed
+CAM0019,CLT030,Harbolnas 2024,Google,2024-10-17,2024-12-07,37000000,36670046,lead_gen,completed
+CAM0020,CLT031,Christmas Sale 2022,IG,2022-10-24,2022-12-26,17000000,17584351,traffic,active
+CAM0021,CLT005,New Year Campaign 2023,Instagram,2023-11-28,2024-02-14,22000000,22310417,conversions,completed
+CAM0022,CLT038,Back to School 2022,YouTube,2022-11-01,2023-01-11,39000000,36927862,app_installs,completed
+CAM0023,CLT049,Harbolnas 2023,YouTube,2023-10-22,2023-11-29,49000000,43990294,traffic,completed
+CAM0024,CLT050,Awareness Launch 2024,TikTok,2024-08-26,2024-10-27,29000000,30382801,traffic,completed
+CAM0025,CLT032,Retargeting Q4,Google,2024-10-25,2025-01-22,26000000,26622441,lead_gen,completed
+CAM0026,CLT007,Lead Gen Property,YouTube,2022-02-01,2022-03-05,31000000,31749784,awareness,completed
+CAM0027,CLT031,Back to School 2023,TikTok,2023-11-25,2024-01-28,46000000,39838900,app_installs,completed
+CAM0028,CLT025,Holiday Sale 2022,YouTube,2022-03-15,2022-04-06,20000000,19524644,conversions,completed
+CAM0029,CLT015,New Year Campaign 2022,YouTube,2022-07-21,2022-08-16,33000000,29148007,awareness,completed
+CAM0030,CLT003,Year End Promo 2023,Instagram,2023-08-24,2023-10-22,28000000,26211846,app_installs,completed
+CAM0031,CLT027,Harbolnas 2022,Google,2022-12-15,2023-01-20,10000000,9718983,app_installs,completed
+CAM0032,CLT044,Independence Day 2022,IG,2022-10-21,2022-12-03,34000000,33237751,conversions,completed
+CAM0033,CLT043,Back to School 2023,Instagram,2023-08-13,2023-11-04,15000000,12971585,app_installs,active
+CAM0034,CLT020,Harbolnas 2023,YouTube,2023-05-28,2023-08-08,24000000,21356241,lead_gen,completed
+CAM0035,CLT007,New Year Campaign 2024,IG,2024-01-06,2024-04-02,23000000,24116383,awareness,completed
+CAM0036,CLT043,Year End Promo 2022,Instagram,2022-04-11,2022-06-27,23000000,23118408,app_installs,active
+CAM0037,CLT023,App Install Drive 2023,Instagram,2023-05-29,2023-06-29,45000000,39124475,awareness,active
+CAM0038,CLT020,Back to School 2024,Facebook,2024-01-18,2024-02-17,10000000,10319255,lead_gen,paused
+CAM0039,CLT012,Retargeting Q1,IG,2024-01-20,2024-04-10,37000000,38209803,traffic,completed
+CAM0040,CLT017,Brand Awareness Q3,YouTube,2023-08-28,2023-10-24,12000000,11323995,traffic,completed
+CAM0041,CLT049,Christmas Sale 2024,YouTube,2024-01-20,2024-02-14,30000000,25583511,awareness,completed
+CAM0042,CLT030,Back to School 2023,instagram,2023-06-21,2023-09-17,29000000,29420020,awareness,completed
+CAM0043,CLT044,Retargeting Q4,Instagram,2023-11-03,2023-12-15,46000000,39681596,lead_gen,completed
+CAM0044,CLT045,New Year Campaign 2022,Instagram,2022-08-27,2022-09-27,7000000,7274766,lead_gen,active
+CAM0045,CLT008,Conversion Boost 2022,IG,2022-10-05,2022-12-07,34000000,31422878,app_installs,completed
+CAM0046,CLT027,New Year Campaign 2024,Google,2024-04-29,2024-05-25,36000000,35032695,awareness,active
+CAM0047,CLT045,App Install Drive 2024,Instagram,2024-06-29,2024-08-12,28000000,24356385,conversions,paused
+CAM0048,CLT035,Brand Awareness Q2,TikTok,2022-05-05,2022-07-08,22000000,19535157,lead_gen,completed
+CAM0049,CLT006,Lead Gen Education,LinkedIn,2022-02-13,2022-03-05,26000000,23366558,app_installs,completed
+CAM0050,CLT014,Year End Promo 2023,instagram,2023-03-01,2023-05-29,18000000,18226990,conversions,completed
+CAM0051,CLT050,Christmas Sale 2022,IG,2022-01-06,2022-02-24,14000000,14665076,conversions,completed
+CAM0052,CLT012,Year End Promo 2022,Instagram,2022-09-27,2022-10-12,27000000,27215917,app_installs,completed
+CAM0053,CLT021,Conversion Boost 2022,Instagram,2022-04-18,2022-05-18,31000000,29611730,awareness,completed
+CAM0054,CLT031,Year End Promo 2024,TikTok,2024-11-17,2025-02-14,11000000,10344411,app_installs,completed
+CAM0055,CLT003,Ramadan Sale 2023,LinkedIn,2023-09-10,2023-11-21,46000000,47969040,lead_gen,active
+CAM0056,CLT026,Back to School 2024,Facebook,2024-10-01,2024-12-10,9000000,9268680,app_installs,completed
+CAM0057,CLT010,Independence Day 2023,Instagram,2023-10-28,2023-12-29,43000000,41112788,app_installs,completed
+CAM0058,CLT039,Harbolnas 2023,Facebook,2023-03-17,2023-05-25,33000000,33911400,conversions,paused
+CAM0059,CLT030,New Year Campaign 2022,instagram,2022-07-14,2022-09-06,32000000,29200150,conversions,completed
+CAM0060,CLT010,Brand Awareness Q2,YouTube,2022-05-18,2022-06-12,10000000,8686460,conversions,completed
+CAM0061,CLT009,App Install Drive 2023,LinkedIn,2023-11-07,2023-12-06,31000000,28542308,lead_gen,completed
+CAM0062,CLT047,Year End Promo 2023,Instagram,2023-10-02,2023-11-30,11000000,10621420,traffic,completed
+CAM0063,CLT043,New Year Campaign 2023,Facebook,2023-12-19,2024-03-13,28000000,24443357,app_installs,active
+CAM0064,CLT015,Conversion Boost 2022,LinkedIn,2022-02-23,2022-04-12,6000000,5316499,conversions,active
+CAM0065,CLT022,Lead Gen Fintech,Instagram,2022-10-21,2023-01-15,47000000,43717372,awareness,completed
+CAM0066,CLT006,Back to School 2024,Google,2024-02-10,2024-04-17,34000000,31218092,conversions,completed
+CAM0067,CLT047,Q2 Performance Push,IG,2022-06-23,2022-07-13,14000000,12340747,awareness,completed
+CAM0068,CLT044,New Year Campaign 2024,Instagram,2024-05-18,2024-08-02,43000000,40351580,traffic,completed
+CAM0069,CLT049,Q2 Performance Push,TikTok,2024-05-30,2024-06-27,23000000,22669802,lead_gen,completed
+CAM0070,CLT034,Year End Promo 2023,Facebook,2023-03-28,2023-05-31,43000000,37021124,conversions,completed
+CAM0071,CLT014,Conversion Boost 2023,TikTok,2023-08-16,2023-10-10,12000000,10218551,lead_gen,completed
+CAM0072,CLT012,Awareness Launch 2023,IG,2023-04-17,2023-07-04,40000000,40666833,conversions,paused
+CAM0073,CLT005,Brand Awareness Q1,instagram,2022-03-28,2022-06-05,6000000,5651705,conversions,completed
+CAM0074,CLT037,Back to School 2024,YouTube,2024-05-05,2024-06-25,12000000,11172077,traffic,completed
+CAM0075,CLT040,Q2 Performance Push,TikTok,2022-06-30,2022-09-07,11000000,9885296,lead_gen,completed
+CAM0076,CLT034,Brand Awareness Q4,Instagram,2023-11-27,2024-01-08,26000000,26151412,app_installs,completed
+CAM0077,CLT041,Retargeting Q1,IG,2023-02-02,2023-04-01,27000000,26877847,traffic,completed
+CAM0078,CLT016,Awareness Launch 2023,Instagram,2023-02-09,2023-03-17,43000000,37864680,awareness,active
+CAM0079,CLT012,Holiday Sale 2024,YouTube,2024-08-08,2024-11-02,42000000,39470804,app_installs,completed
+CAM0080,CLT042,Independence Day 2023,LinkedIn,2023-10-24,2023-12-17,14000000,13131335,lead_gen,completed
+CAM0081,CLT041,Independence Day 2022,Instagram,2022-04-26,2022-06-24,37000000,31999010,lead_gen,active
+CAM0082,CLT003,Harbolnas 2022,Instagram,2022-06-07,2022-07-02,44000000,42627902,lead_gen,active
+CAM0083,CLT038,Q3 Performance Push,Facebook,2024-07-10,2024-10-05,46000000,40831803,lead_gen,completed
+CAM0084,CLT033,Brand Awareness Q3,Instagram,2024-07-11,2024-08-07,26000000,27208405,app_installs,completed
+CAM0085,CLT042,Lead Gen F&B,Instagram,2024-06-15,2024-08-24,38000000,36272885,conversions,completed
+CAM0086,CLT024,Awareness Launch 2024,YouTube,2024-04-17,2024-06-13,48000000,46539704,conversions,active
+CAM0087,CLT005,App Install Drive 2024,IG,2024-03-02,2024-04-21,21000000,20889681,app_installs,completed
+CAM0088,CLT010,Conversion Boost 2022,IG,2022-10-17,2022-12-14,24000000,25044943,lead_gen,active
+CAM0089,CLT009,Back to School 2023,Facebook,2023-09-27,2023-12-21,29000000,28382260,traffic,completed
+CAM0090,CLT043,Back to School 2022,LinkedIn,2022-07-11,2022-09-17,37000000,34127527,conversions,active
+CAM0091,CLT012,Lead Gen Fintech,TikTok,2024-09-22,2024-10-30,19000000,19949911,awareness,completed
+CAM0092,CLT019,Back to School 2024,Facebook,2024-11-05,2025-01-27,38000000,32586880,app_installs,completed
+CAM0093,CLT009,Awareness Launch 2022,Google,2022-11-29,2023-01-05,49000000,49206758,traffic,completed
+CAM0094,CLT047,Awareness Launch 2024,YouTube,2024-01-17,2024-03-01,33000000,32079929,lead_gen,paused
+CAM0095,CLT015,Q3 Performance Push,TikTok,2024-08-18,2024-09-25,28000000,27598518,lead_gen,completed
+CAM0096,CLT030,Retargeting Q4,YouTube,2024-10-26,2025-01-15,31000000,32340862,traffic,completed
+CAM0097,CLT039,Brand Awareness Q2,Instagram,2022-04-17,2022-07-01,28000000,26905428,app_installs,active
+CAM0098,CLT008,Lead Gen FMCG,instagram,2022-11-25,2023-01-12,33000000,34025020,lead_gen,completed
+CAM0099,CLT006,Harbolnas 2024,Google,2024-07-12,2024-09-08,6000000,5597876,app_installs,paused
+CAM0100,CLT024,Brand Awareness Q1,Instagram,2024-02-07,2024-03-20,6000000,5482421,conversions,completed
+CAM0101,CLT010,Q3 Performance Push,Instagram,2024-08-25,2024-09-25,50000000,47191101,awareness,completed
+CAM0102,CLT006,Brand Awareness Q4,Instagram,2022-11-03,2023-01-26,43000000,41088834,conversions,active
+CAM0103,CLT016,Independence Day 2023,Instagram,2023-05-04,2023-07-10,45000000,45395091,awareness,completed
+CAM0104,CLT008,Lead Gen FMCG,YouTube,2022-02-03,2022-04-23,41000000,36833892,conversions,active
+CAM0105,CLT028,App Install Drive 2023,Instagram,2023-05-08,2023-08-03,31000000,27511346,awareness,completed
+CAM0106,CLT034,Christmas Sale 2024,Facebook,2024-12-13,2025-03-06,37000000,37269451,app_installs,completed
+CAM0107,CLT002,Ramadan Sale 2022,IG,2022-03-31,2022-06-02,28000000,25220441,conversions,active
+CAM0108,CLT005,Back to School 2022,instagram,2022-08-01,2022-10-28,26000000,22793729,app_installs,completed
+CAM0109,CLT022,Lead Gen Fintech,Google,2024-08-09,2024-10-23,45000000,39890501,awareness,completed
+CAM0110,CLT046,Year End Promo 2022,YouTube,2022-03-17,2022-05-07,17000000,14598941,awareness,paused
+CAM0111,CLT021,Awareness Launch 2024,LinkedIn,2024-03-26,2024-06-17,35000000,31523196,traffic,completed
+CAM0112,CLT019,Back to School 2022,instagram,2022-04-08,2022-06-03,22000000,19247690,lead_gen,completed
+CAM0113,CLT026,Back to School 2023,YouTube,2023-11-26,2024-01-02,36000000,35582893,app_installs,completed
+CAM0114,CLT018,Lead Gen Property,YouTube,2022-06-11,2022-08-19,43000000,45107844,app_installs,completed
+CAM0115,CLT019,Conversion Boost 2023,Instagram,2023-11-03,2023-12-24,24000000,22540395,lead_gen,active
+CAM0116,CLT011,Harbolnas 2024,TikTok,2024-07-04,2024-07-23,27000000,26270198,conversions,completed
+CAM0117,CLT041,Conversion Boost 2022,Facebook,2022-06-03,2022-08-07,28000000,26673281,traffic,active
+CAM0118,CLT002,Awareness Launch 2024,IG,2024-06-16,2024-07-04,13000000,11224806,conversions,active
+CAM0119,CLT024,Back to School 2022,IG,2022-03-08,2022-04-10,48000000,45119256,conversions,completed
+CAM0120,CLT029,App Install Drive 2022,LinkedIn,2022-10-09,2022-12-29,28000000,26028990,conversions,active
+CAM0121,CLT016,Christmas Sale 2023,Facebook,2023-01-17,2023-04-04,38000000,35241104,awareness,completed
+CAM0122,CLT017,Independence Day 2023,YouTube,2023-03-16,2023-05-05,49000000,50631493,traffic,completed
+CAM0123,CLT008,Brand Awareness Q3,Instagram,2024-07-14,2024-08-19,50000000,46951111,conversions,active
+CAM0124,CLT043,Holiday Sale 2023,Instagram,2023-08-18,2023-10-09,15000000,14885427,traffic,completed
+CAM0125,CLT024,Ramadan Sale 2023,Facebook,2023-02-16,2023-03-19,20000000,20161492,conversions,completed
+CAM0126,CLT036,Conversion Boost 2022,YouTube,2022-09-23,2022-10-18,9000000,8206723,lead_gen,completed
+CAM0127,CLT034,Independence Day 2022,YouTube,2022-06-01,2022-07-01,25000000,24461692,lead_gen,completed
+CAM0128,CLT044,Retargeting Q1,Google,2023-01-08,2023-02-07,32000000,30418328,awareness,completed
+CAM0129,CLT008,Year End Promo 2022,TikTok,2022-12-04,2023-01-07,25000000,25923689,conversions,completed
+CAM0130,CLT034,New Year Campaign 2023,Facebook,2023-05-29,2023-07-07,45000000,46857164,traffic,completed
+CAM0131,CLT041,Q3 Performance Push,IG,2022-07-11,2022-09-27,46000000,40651450,traffic,completed
+CAM0132,CLT011,Ramadan Sale 2023,LinkedIn,2023-11-23,2024-02-17,7000000,7105330,awareness,completed
+CAM0133,CLT003,App Install Drive 2023,LinkedIn,2023-06-27,2023-08-06,41000000,38266011,awareness,completed
+CAM0134,CLT032,Awareness Launch 2023,LinkedIn,2023-08-17,2023-10-08,35000000,31464145,lead_gen,completed
+CAM0135,CLT020,Year End Promo 2022,Facebook,2022-11-20,2023-01-29,31000000,29352357,conversions,active
+CAM0136,CLT039,Back to School 2023,instagram,2023-10-16,2023-12-13,30000000,26284596,app_installs,completed
+CAM0137,CLT036,Lead Gen Other,Instagram,2024-08-13,2024-09-11,22000000,20678222,awareness,active
+CAM0138,CLT004,Holiday Sale 2024,Instagram,2024-05-06,2024-06-20,15000000,15190433,app_installs,completed
+CAM0139,CLT047,Holiday Sale 2022,instagram,2022-11-23,2023-02-08,37000000,34904431,conversions,completed
+CAM0140,CLT032,Back to School 2024,Instagram,2024-11-01,2025-01-12,20000000,17860577,awareness,completed
+CAM0141,CLT004,Brand Awareness Q3,IG,2024-08-21,2024-10-10,39000000,33213783,lead_gen,completed
+CAM0142,CLT009,Q2 Performance Push,TikTok,2024-04-05,2024-06-04,7000000,6510814,app_installs,completed
+CAM0143,CLT013,Christmas Sale 2022,Instagram,2022-05-31,2022-08-02,37000000,34782622,conversions,completed
+CAM0144,CLT040,Back to School 2022,Facebook,2022-09-21,2022-10-17,30000000,27739190,app_installs,active
+CAM0145,CLT024,Ramadan Sale 2024,Google,2024-11-08,2025-01-12,37000000,31747886,traffic,completed
+CAM0146,CLT046,Christmas Sale 2024,IG,2024-11-29,2025-02-09,14000000,13597529,traffic,completed
+CAM0147,CLT021,New Year Campaign 2022,TikTok,2022-11-29,2023-02-01,44000000,43906010,app_installs,completed
+CAM0148,CLT022,Independence Day 2024,LinkedIn,2024-12-26,2025-03-12,50000000,48129242,awareness,completed
+CAM0149,CLT024,Conversion Boost 2024,Instagram,2024-05-03,2024-07-30,24000000,24224423,awareness,completed
+CAM0150,CLT039,Christmas Sale 2023,LinkedIn,2023-04-12,2023-05-02,42000000,39735769,app_installs,completed
+CAM0151,CLT050,Brand Awareness Q2,Google,2023-05-12,2023-05-30,41000000,42625282,traffic,completed
+CAM0152,CLT002,Christmas Sale 2022,YouTube,2022-11-07,2023-01-12,49000000,43648138,app_installs,completed
+CAM0153,CLT031,App Install Drive 2022,Facebook,2022-10-10,2022-12-29,18000000,17319192,lead_gen,paused
+CAM0154,CLT034,App Install Drive 2024,Instagram,2024-07-30,2024-10-20,26000000,24940620,conversions,completed
+CAM0155,CLT040,New Year Campaign 2023,Google,2023-07-26,2023-10-19,24000000,21479361,conversions,paused
+CAM0156,CLT046,Holiday Sale 2024,instagram,2024-09-28,2024-11-21,35000000,32191622,conversions,paused
+CAM0157,CLT019,Awareness Launch 2024,instagram,2024-02-17,2024-04-21,27000000,28104887,traffic,active
+CAM0158,CLT019,Conversion Boost 2022,instagram,2022-06-11,2022-08-08,33000000,32379415,lead_gen,active
+CAM0159,CLT014,Brand Awareness Q3,IG,2023-07-10,2023-10-03,49000000,44311890,app_installs,completed
+CAM0160,CLT048,Ramadan Sale 2022,Google,2022-04-14,2022-07-04,19000000,18574189,awareness,active
+CAM0161,CLT027,Holiday Sale 2022,IG,2022-07-25,2022-08-25,5000000,5214518,traffic,paused
+CAM0162,CLT027,App Install Drive 2024,YouTube,2024-09-04,2024-10-13,23000000,21027371,awareness,active
+CAM0163,CLT050,Lead Gen F&B,IG,2023-04-21,2023-07-12,7000000,7228521,lead_gen,completed
+CAM0164,CLT012,Retargeting Q1,Facebook,2024-03-24,2024-06-09,16000000,16597147,conversions,completed
+CAM0165,CLT003,App Install Drive 2022,IG,2022-08-08,2022-10-03,23000000,21640005,app_installs,paused
+CAM0166,CLT034,Brand Awareness Q4,Google,2024-10-29,2025-01-10,22000000,19548370,conversions,paused
+CAM0167,CLT011,Q1 Performance Push,TikTok,2023-01-17,2023-02-01,26000000,26211991,traffic,completed
+CAM0168,CLT012,App Install Drive 2024,YouTube,2024-05-25,2024-08-12,25000000,21683688,awareness,completed
+CAM0169,CLT012,Year End Promo 2023,YouTube,2023-10-25,2023-12-09,5000000,4510785,lead_gen,active
+CAM0170,CLT049,App Install Drive 2023,Instagram,2023-09-11,2023-12-08,41000000,34943773,conversions,completed
+CAM0171,CLT045,App Install Drive 2022,instagram,2022-08-31,2022-11-12,24000000,21166640,app_installs,completed
+CAM0172,CLT046,Lead Gen FMCG,Facebook,2023-08-28,2023-10-28,44000000,39343473,lead_gen,active
+CAM0173,CLT010,Independence Day 2024,LinkedIn,2024-02-05,2024-04-12,49000000,47032498,app_installs,paused
+CAM0174,CLT043,Back to School 2022,Google,2022-06-17,2022-09-06,33000000,31535942,awareness,completed
+CAM0175,CLT037,Lead Gen Other,IG,2024-11-01,2024-12-10,41000000,39250613,conversions,paused
+CAM0176,CLT034,Ramadan Sale 2024,Google,2024-09-28,2024-10-23,37000000,34746571,lead_gen,completed
+CAM0177,CLT009,New Year Campaign 2022,YouTube,2022-04-29,2022-07-23,34000000,33474820,awareness,completed
+CAM0178,CLT026,Back to School 2023,Instagram,2023-03-23,2023-06-19,9000000,7731521,awareness,completed
+CAM0179,CLT035,Awareness Launch 2024,Facebook,2024-08-24,2024-09-11,23000000,21430787,traffic,paused
+CAM0180,CLT050,Holiday Sale 2024,YouTube,2024-02-06,2024-04-08,33000000,33789493,lead_gen,completed
+CAM0181,CLT025,Christmas Sale 2022,IG,2022-09-30,2022-11-27,12000000,10628336,lead_gen,completed
+CAM0182,CLT034,Conversion Boost 2022,Instagram,2022-01-08,2022-01-24,24000000,22622418,app_installs,completed
+CAM0183,CLT028,Year End Promo 2023,Google,2023-05-22,2023-08-02,27000000,23787655,awareness,active
+CAM0184,CLT003,Q1 Performance Push,YouTube,2022-02-02,2022-03-18,18000000,15542247,awareness,paused
+CAM0185,CLT029,Christmas Sale 2023,Facebook,2023-05-17,2023-06-05,30000000,28133776,traffic,completed
+CAM0186,CLT049,Holiday Sale 2022,Facebook,2022-10-14,2022-12-31,23000000,20627142,app_installs,completed
+CAM0187,CLT021,Christmas Sale 2023,TikTok,2023-05-01,2023-06-22,14000000,14659947,traffic,completed
+CAM0188,CLT027,Back to School 2022,Instagram,2022-12-25,2023-03-03,40000000,37964966,lead_gen,completed
+CAM0189,CLT034,Awareness Launch 2024,Instagram,2024-04-16,2024-05-19,24000000,22207008,app_installs,completed
+CAM0190,CLT031,Christmas Sale 2023,Instagram,2023-09-08,2023-10-10,34000000,35120239,lead_gen,active
+CAM0191,CLT027,App Install Drive 2024,Google,2024-03-06,2024-04-20,21000000,18704014,awareness,active
+CAM0192,CLT029,Q1 Performance Push,Facebook,2023-01-26,2023-02-15,22000000,20359539,app_installs,completed
+CAM0193,CLT003,Back to School 2023,Google,2023-03-21,2023-06-04,18000000,18430105,conversions,paused
+CAM0194,CLT001,Conversion Boost 2022,Instagram,2022-08-29,2022-11-12,20000000,19782505,traffic,completed
+CAM0195,CLT026,App Install Drive 2023,LinkedIn,2023-10-21,2023-12-10,29000000,27354252,conversions,completed
+CAM0196,CLT020,Conversion Boost 2024,IG,2024-10-15,2024-12-27,11000000,11116196,lead_gen,completed
+CAM0197,CLT049,Retargeting Q1,Google,2024-01-30,2024-03-24,31000000,26633435,traffic,completed
+CAM0198,CLT048,Year End Promo 2024,Instagram,2024-05-05,2024-06-25,14000000,12449336,lead_gen,completed
+CAM0199,CLT037,App Install Drive 2023,YouTube,2023-11-23,2024-01-08,36000000,37558859,lead_gen,completed
+CAM0200,CLT030,Holiday Sale 2022,Instagram,2022-12-13,2023-01-13,39000000,36958867,app_installs,completed
+CAM0201,CLT042,Ramadan Sale 2022,LinkedIn,2022-03-11,2022-04-03,47000000,40406035,lead_gen,completed
+CAM0202,CLT009,Independence Day 2022,Google,2022-05-20,2022-06-22,5000000,4468719,conversions,completed
+CAM0203,CLT004,Christmas Sale 2024,LinkedIn,2024-09-16,2024-12-01,6000000,5107934,lead_gen,active
+CAM0204,CLT001,Retargeting Q3,instagram,2023-07-17,2023-10-07,23000000,19628855,lead_gen,active
+CAM0205,CLT012,Christmas Sale 2024,Instagram,2024-12-09,2025-01-11,20000000,17767728,conversions,completed
+CAM0206,CLT023,Year End Promo 2022,Instagram,2022-06-11,2022-08-11,30000000,28253986,traffic,active
+CAM0207,CLT020,Christmas Sale 2022,Facebook,2022-03-06,2022-03-31,30000000,27775584,lead_gen,active
+CAM0208,CLT004,Back to School 2022,Google,2022-06-19,2022-09-04,32000000,31327406,app_installs,completed
+CAM0209,CLT007,Independence Day 2023,Facebook,2023-04-16,2023-05-27,49000000,50348032,conversions,paused
+CAM0210,CLT003,Year End Promo 2022,TikTok,2022-03-09,2022-04-14,25000000,21328290,app_installs,completed
+CAM0211,CLT010,Q2 Performance Push,YouTube,2022-06-07,2022-07-29,15000000,14441874,lead_gen,completed
+CAM0212,CLT044,Christmas Sale 2024,TikTok,2024-02-26,2024-03-28,49000000,48746802,conversions,completed
+CAM0213,CLT004,Q2 Performance Push,Instagram,2022-06-05,2022-08-01,43000000,43163448,lead_gen,completed
+CAM0214,CLT050,Christmas Sale 2023,IG,2023-07-14,2023-09-23,36000000,32242596,lead_gen,completed
+CAM0215,CLT028,Year End Promo 2024,IG,2024-02-18,2024-03-13,44000000,39999339,awareness,completed
+CAM0216,CLT006,Brand Awareness Q4,Instagram,2022-11-12,2023-01-14,25000000,23053501,awareness,paused
+CAM0217,CLT020,Independence Day 2022,TikTok,2022-07-29,2022-08-28,10000000,8874783,app_installs,completed
+CAM0218,CLT036,Q1 Performance Push,Facebook,2022-02-23,2022-03-20,27000000,25942786,app_installs,completed
+CAM0219,CLT021,Conversion Boost 2023,Facebook,2023-08-21,2023-10-26,29000000,29169180,app_installs,completed
+CAM0220,CLT016,New Year Campaign 2024,Google,2024-02-19,2024-03-25,13000000,11749189,lead_gen,completed
+CAM0221,CLT010,Brand Awareness Q3,Instagram,2023-07-20,2023-09-25,24000000,22724310,conversions,completed
+CAM0222,CLT017,Ramadan Sale 2023,YouTube,2023-02-05,2023-04-18,11000000,9648076,lead_gen,completed
+CAM0223,CLT022,Retargeting Q4,YouTube,2023-11-06,2024-01-15,26000000,24339204,app_installs,completed
+CAM0224,CLT009,Harbolnas 2023,IG,2023-02-16,2023-05-02,25000000,22138186,conversions,completed
+CAM0225,CLT019,Awareness Launch 2023,YouTube,2023-05-12,2023-07-06,29000000,26275740,lead_gen,completed
+CAM0226,CLT024,Awareness Launch 2023,IG,2023-02-14,2023-05-14,39000000,34553432,app_installs,completed
+CAM0227,CLT002,Brand Awareness Q1,YouTube,2023-03-06,2023-05-15,23000000,23373896,lead_gen,completed
+CAM0228,CLT044,Harbolnas 2023,TikTok,2023-05-11,2023-06-26,47000000,41398946,lead_gen,paused
+CAM0229,CLT005,Holiday Sale 2024,LinkedIn,2024-09-08,2024-12-05,30000000,28706204,lead_gen,completed
+CAM0230,CLT035,Back to School 2022,Instagram,2022-06-24,2022-07-21,20000000,19630406,traffic,completed
+CAM0231,CLT042,Brand Awareness Q1,LinkedIn,2024-03-29,2024-05-24,32000000,27878045,conversions,completed
+CAM0232,CLT015,Awareness Launch 2023,LinkedIn,2023-03-29,2023-06-08,28000000,25990351,app_installs,completed
+CAM0233,CLT045,Holiday Sale 2022,TikTok,2022-02-20,2022-05-06,11000000,9999950,awareness,completed
+CAM0234,CLT008,Year End Promo 2023,Google,2023-12-15,2024-02-06,26000000,24467729,app_installs,active
+CAM0235,CLT031,Ramadan Sale 2024,Instagram,2024-06-16,2024-08-26,25000000,21585871,awareness,completed
+CAM0236,CLT002,Lead Gen Property,Facebook,2022-12-03,2023-01-17,38000000,33625844,conversions,completed
+CAM0237,CLT036,App Install Drive 2023,YouTube,2023-04-20,2023-06-24,45000000,39910065,lead_gen,completed
+CAM0238,CLT026,Ramadan Sale 2023,IG,2023-02-09,2023-04-21,42000000,39308243,traffic,completed
+CAM0239,CLT014,Christmas Sale 2022,instagram,2022-05-09,2022-08-04,11000000,11108905,traffic,completed
+CAM0240,CLT024,Christmas Sale 2022,Instagram,2022-08-22,2022-10-08,47000000,48058783,conversions,completed
+CAM0241,CLT039,Q3 Performance Push,Instagram,2022-08-22,2022-10-19,27000000,27515796,traffic,active
+CAM0242,CLT044,New Year Campaign 2022,TikTok,2022-06-23,2022-07-24,25000000,21839308,awareness,completed
+CAM0243,CLT012,Q4 Performance Push,Instagram,2024-11-12,2025-01-14,31000000,30047840,lead_gen,completed
+CAM0244,CLT028,Lead Gen Fintech,IG,2022-12-21,2023-03-16,15000000,14218926,traffic,paused
+CAM0245,CLT021,Year End Promo 2022,LinkedIn,2022-04-20,2022-06-18,5000000,4734608,lead_gen,completed
+CAM0246,CLT036,Independence Day 2024,YouTube,2024-04-17,2024-07-02,31000000,30752882,lead_gen,paused
+CAM0247,CLT011,Christmas Sale 2023,Instagram,2023-03-28,2023-05-18,7000000,6334794,conversions,completed
+CAM0248,CLT011,Brand Awareness Q4,LinkedIn,2024-10-11,2025-01-03,37000000,32287761,conversions,completed
+CAM0249,CLT050,Harbolnas 2022,TikTok,2022-03-27,2022-06-05,39000000,34854627,awareness,completed
+CAM0250,CLT048,Retargeting Q3,Google,2023-09-02,2023-09-20,33000000,29784580,awareness,completed
+CAM0251,CLT029,Retargeting Q2,Facebook,2023-05-01,2023-06-10,42000000,41488722,app_installs,active
+CAM0252,CLT041,Q4 Performance Push,LinkedIn,2022-10-13,2022-11-22,18000000,18199585,conversions,completed
+CAM0253,CLT035,Q4 Performance Push,IG,2022-12-11,2023-02-04,50000000,45426346,conversions,active
+CAM0254,CLT033,Retargeting Q4,Facebook,2022-10-05,2022-12-10,8000000,8387977,traffic,completed
+CAM0255,CLT045,App Install Drive 2022,Google,2022-10-27,2022-12-21,20000000,20045894,lead_gen,active
+CAM0256,CLT032,App Install Drive 2023,IG,2023-07-05,2023-09-10,29000000,27271551,awareness,active
+CAM0257,CLT026,Ramadan Sale 2024,TikTok,2024-01-26,2024-04-07,36000000,32956482,awareness,completed
+CAM0258,CLT047,Harbolnas 2022,TikTok,2022-05-10,2022-07-31,30000000,26806979,traffic,completed
+CAM0259,CLT032,Retargeting Q4,Instagram,2023-11-23,2024-02-15,41000000,35920872,lead_gen,completed
+CAM0260,CLT022,Independence Day 2022,Facebook,2022-04-05,2022-05-01,45000000,45305007,awareness,completed
+CAM0261,CLT008,Harbolnas 2024,Google,2024-06-22,2024-09-02,5000000,5241838,traffic,active
+CAM0262,CLT045,New Year Campaign 2022,TikTok,2022-11-22,2023-01-10,10000000,9809175,awareness,paused
+CAM0263,CLT024,Conversion Boost 2022,Google,2022-04-17,2022-06-20,45000000,40999583,traffic,completed
+CAM0264,CLT028,Q1 Performance Push,Facebook,2022-01-03,2022-02-13,35000000,30295571,traffic,completed
+CAM0265,CLT034,Harbolnas 2022,Facebook,2022-01-17,2022-03-15,12000000,12571571,traffic,active
+CAM0266,CLT031,Holiday Sale 2022,Instagram,2022-07-02,2022-07-29,11000000,10039373,conversions,completed
+CAM0267,CLT009,Ramadan Sale 2022,instagram,2022-09-30,2022-11-01,9000000,8604914,app_installs,completed
+CAM0268,CLT042,Independence Day 2023,Instagram,2023-03-13,2023-04-15,31000000,30169671,traffic,completed
+CAM0269,CLT006,Harbolnas 2022,Google,2022-09-10,2022-12-08,29000000,26688906,conversions,completed
+CAM0270,CLT009,Conversion Boost 2022,IG,2022-06-22,2022-08-06,40000000,38807992,app_installs,completed
+CAM0271,CLT019,Year End Promo 2023,Facebook,2023-09-10,2023-10-20,38000000,36912644,lead_gen,completed
+CAM0272,CLT019,App Install Drive 2024,Google,2024-10-10,2024-12-12,12000000,10778596,app_installs,completed
+CAM0273,CLT005,Retargeting Q1,Facebook,2024-01-10,2024-03-04,13000000,12055779,app_installs,completed
+CAM0274,CLT027,Brand Awareness Q4,instagram,2022-12-20,2023-03-04,9000000,7680040,awareness,completed
+CAM0275,CLT017,Christmas Sale 2024,Instagram,2024-03-26,2024-06-12,23000000,22441425,lead_gen,completed
+CAM0276,CLT028,Christmas Sale 2022,Facebook,2022-11-09,2022-12-28,10000000,9119813,traffic,active
+CAM0277,CLT010,Retargeting Q2,YouTube,2022-05-16,2022-07-08,49000000,45937363,traffic,completed
+CAM0278,CLT004,New Year Campaign 2022,Instagram,2022-08-26,2022-11-06,44000000,42757725,traffic,completed
+CAM0279,CLT008,Christmas Sale 2022,Instagram,2022-01-24,2022-02-27,36000000,37461716,app_installs,completed
+CAM0280,CLT047,Ramadan Sale 2022,Instagram,2022-09-17,2022-11-04,12000000,12051432,conversions,completed
+CAM0281,CLT028,Independence Day 2023,Instagram,2023-06-23,2023-09-18,45000000,38943630,app_installs,completed
+CAM0282,CLT024,Brand Awareness Q4,IG,2022-12-08,2023-02-07,15000000,13515348,app_installs,active
+CAM0283,CLT044,Ramadan Sale 2024,Google,2024-11-08,2024-11-22,7000000,7152164,traffic,completed
+CAM0284,CLT003,Holiday Sale 2022,YouTube,2022-11-04,2022-12-10,7000000,6724010,lead_gen,completed
+CAM0285,CLT015,Brand Awareness Q4,Instagram,2023-10-18,2023-12-05,9000000,8678764,app_installs,completed
+CAM0286,CLT044,Brand Awareness Q2,Google,2023-04-03,2023-06-22,7000000,7285711,lead_gen,completed
+CAM0287,CLT019,Back to School 2023,TikTok,2023-11-02,2023-11-27,40000000,37653969,traffic,completed
+CAM0288,CLT019,Independence Day 2023,TikTok,2023-05-12,2023-07-24,28000000,27113469,traffic,paused
+CAM0289,CLT047,Christmas Sale 2022,Google,2022-11-05,2022-11-19,31000000,26498243,conversions,completed
+CAM0290,CLT041,Conversion Boost 2023,Facebook,2023-11-18,2023-12-02,47000000,43486983,conversions,active
+CAM0291,CLT007,Lead Gen Property,Instagram,2024-05-09,2024-07-24,8000000,8356094,conversions,completed
+CAM0292,CLT006,Independence Day 2024,Instagram,2024-11-30,2025-02-04,49000000,50426663,awareness,completed
+CAM0293,CLT038,Harbolnas 2024,Instagram,2024-03-18,2024-04-10,42000000,40469694,traffic,paused
+CAM0294,CLT016,Year End Promo 2024,Instagram,2024-03-15,2024-05-09,25000000,23513789,awareness,completed
+CAM0295,CLT013,Independence Day 2022,instagram,2022-08-12,2022-09-14,11000000,9711624,conversions,paused
+CAM0296,CLT027,Retargeting Q1,Instagram,2023-03-02,2023-05-12,24000000,22624063,awareness,completed
+CAM0297,CLT006,Back to School 2023,instagram,2023-09-16,2023-10-05,18000000,18309329,traffic,completed
+CAM0298,CLT006,New Year Campaign 2024,TikTok,2024-03-22,2024-06-09,8000000,7883493,traffic,completed
+CAM0299,CLT002,Awareness Launch 2023,YouTube,2023-05-27,2023-06-22,34000000,29592969,traffic,completed
+CAM0300,CLT008,Back to School 2023,instagram,2023-04-01,2023-05-01,17000000,17250489,awareness,completed
+CAM0301,CLT038,Independence Day 2022,Facebook,2022-02-14,2022-03-08,17000000,17518486,traffic,paused
+CAM0302,CLT006,Holiday Sale 2022,TikTok,2022-09-08,2022-09-27,34000000,29244336,app_installs,completed
+CAM0303,CLT028,Lead Gen Fintech,YouTube,2024-10-13,2024-10-30,29000000,28612634,conversions,completed
+CAM0304,CLT014,Q3 Performance Push,TikTok,2023-07-28,2023-10-07,14000000,11997018,app_installs,completed
+CAM0305,CLT016,New Year Campaign 2024,YouTube,2024-04-23,2024-07-16,35000000,30176853,lead_gen,completed
+CAM0306,CLT009,Awareness Launch 2023,LinkedIn,2023-05-26,2023-08-17,6000000,6287284,conversions,paused
+CAM0307,CLT031,New Year Campaign 2023,YouTube,2023-12-06,2024-03-01,37000000,33829872,traffic,completed
+CAM0308,CLT002,Independence Day 2022,Instagram,2022-03-02,2022-04-20,8000000,8093846,app_installs,completed
+CAM0309,CLT023,New Year Campaign 2022,Google,2022-11-23,2022-12-19,20000000,19627457,app_installs,completed
+CAM0310,CLT048,Q1 Performance Push,Instagram,2024-03-06,2024-05-04,16000000,14163521,conversions,completed
+CAM0311,CLT048,Q1 Performance Push,LinkedIn,2022-02-27,2022-04-27,41000000,39471573,traffic,completed
+CAM0312,CLT032,Q4 Performance Push,Google,2024-10-01,2024-10-19,10000000,8612335,traffic,completed
+CAM0313,CLT002,Lead Gen Property,Facebook,2023-11-11,2023-12-20,13000000,11935973,conversions,active
+CAM0314,CLT004,Brand Awareness Q4,IG,2022-10-18,2022-11-15,38000000,38841087,conversions,completed
+CAM0315,CLT046,Lead Gen FMCG,YouTube,2022-07-26,2022-09-21,24000000,21948495,lead_gen,completed
+CAM0316,CLT041,Q4 Performance Push,TikTok,2022-12-23,2023-03-18,49000000,50368082,conversions,completed
+CAM0317,CLT015,Lead Gen F&B,Google,2024-02-14,2024-04-07,49000000,44536269,awareness,completed
+CAM0318,CLT045,Awareness Launch 2022,YouTube,2022-03-08,2022-04-14,43000000,39286665,app_installs,completed
+CAM0319,CLT015,Year End Promo 2024,Facebook,2024-10-13,2024-11-14,26000000,25975785,conversions,completed
+CAM0320,CLT021,Year End Promo 2023,Instagram,2023-11-19,2024-01-29,5000000,4515212,awareness,completed
+CAM0321,CLT023,Harbolnas 2022,Instagram,2022-01-03,2022-01-23,29000000,27191676,traffic,completed
+CAM0322,CLT027,Independence Day 2023,YouTube,2023-12-21,2024-03-13,29000000,25238285,app_installs,completed
+CAM0323,CLT042,Ramadan Sale 2022,Google,2022-11-30,2023-02-09,9000000,9088550,conversions,completed
+CAM0324,CLT002,Lead Gen Property,Instagram,2022-06-01,2022-07-28,15000000,15413793,awareness,completed
+CAM0325,CLT036,Conversion Boost 2023,Facebook,2023-11-24,2024-02-22,44000000,45260390,awareness,active
+CAM0326,CLT028,Year End Promo 2024,Google,2024-06-08,2024-07-12,8000000,6962012,traffic,completed
+CAM0327,CLT027,Ramadan Sale 2023,LinkedIn,2023-06-28,2023-08-17,24000000,21540231,lead_gen,completed
+CAM0328,CLT037,Brand Awareness Q4,YouTube,2022-11-11,2022-12-01,28000000,23821367,conversions,completed
+CAM0329,CLT043,App Install Drive 2023,YouTube,2023-02-13,2023-03-11,6000000,5348343,conversions,active
+CAM0330,CLT006,App Install Drive 2023,Facebook,2023-09-24,2023-11-27,35000000,33173677,conversions,completed
+CAM0331,CLT006,Independence Day 2023,YouTube,2023-01-14,2023-03-16,29000000,26792529,awareness,completed
+CAM0332,CLT017,Awareness Launch 2023,TikTok,2023-04-09,2023-05-27,41000000,35355442,awareness,completed
+CAM0333,CLT006,Retargeting Q2,LinkedIn,2024-04-27,2024-07-25,19000000,18253687,lead_gen,paused
+CAM0334,CLT034,Brand Awareness Q3,LinkedIn,2024-08-30,2024-11-25,20000000,18905049,lead_gen,completed
+CAM0335,CLT046,Lead Gen FMCG,IG,2024-11-24,2025-02-19,48000000,50234445,awareness,completed
+CAM0336,CLT049,Brand Awareness Q1,Google,2023-03-10,2023-04-17,13000000,11160957,lead_gen,completed
+CAM0337,CLT013,Christmas Sale 2023,Google,2023-06-13,2023-08-06,9000000,7806649,lead_gen,completed
+CAM0338,CLT036,Q4 Performance Push,Instagram,2024-11-30,2025-02-10,5000000,5036550,app_installs,active
+CAM0339,CLT034,Q2 Performance Push,Facebook,2024-04-28,2024-05-31,14000000,13486462,awareness,completed
+CAM0340,CLT007,New Year Campaign 2023,Facebook,2023-08-09,2023-10-30,27000000,27690625,lead_gen,completed
+CAM0341,CLT042,Lead Gen F&B,LinkedIn,2024-08-26,2024-09-13,16000000,14481325,app_installs,paused
+CAM0342,CLT039,Ramadan Sale 2022,YouTube,2022-03-21,2022-05-24,26000000,25690671,lead_gen,completed
+CAM0343,CLT018,Independence Day 2023,Facebook,2023-11-23,2024-01-14,24000000,21745663,awareness,active
+CAM0344,CLT015,Q2 Performance Push,instagram,2024-06-26,2024-08-20,22000000,21906717,awareness,completed
+CAM0345,CLT013,Christmas Sale 2024,YouTube,2024-09-19,2024-12-08,28000000,28397697,traffic,completed
+CAM0346,CLT005,Ramadan Sale 2024,IG,2024-04-06,2024-05-07,38000000,38982927,traffic,completed
+CAM0347,CLT013,Holiday Sale 2022,Google,2022-04-29,2022-06-13,7000000,6589028,conversions,completed
+CAM0348,CLT046,Brand Awareness Q3,Instagram,2024-08-08,2024-10-25,30000000,29312458,awareness,active
+CAM0349,CLT016,Back to School 2024,IG,2024-07-02,2024-08-07,35000000,33858161,conversions,completed
+CAM0350,CLT011,Lead Gen Healthcare,TikTok,2022-07-05,2022-08-24,6000000,5563878,app_installs,active
+CAM0351,CLT050,Christmas Sale 2023,Google,2023-04-07,2023-05-17,22000000,21566984,awareness,paused
+CAM0352,CLT050,Awareness Launch 2024,Facebook,2024-08-28,2024-09-27,46000000,40693446,awareness,completed
+CAM0353,CLT015,Independence Day 2023,Instagram,2023-07-18,2023-09-24,29000000,29589199,conversions,completed
+CAM0354,CLT014,App Install Drive 2024,LinkedIn,2024-03-24,2024-06-20,11000000,9366164,conversions,active
+CAM0355,CLT036,Brand Awareness Q3,LinkedIn,2023-08-02,2023-09-23,48000000,41837803,conversions,completed
+CAM0356,CLT018,Awareness Launch 2023,TikTok,2023-06-19,2023-08-10,17000000,14959759,traffic,completed
+CAM0357,CLT004,Ramadan Sale 2024,LinkedIn,2024-04-07,2024-05-31,48000000,42143323,lead_gen,completed
+CAM0358,CLT019,Q2 Performance Push,Instagram,2024-04-08,2024-06-10,7000000,6766233,traffic,completed
+CAM0359,CLT022,New Year Campaign 2024,Google,2024-12-30,2025-03-14,47000000,43319873,traffic,completed
+CAM0360,CLT043,New Year Campaign 2023,Google,2023-08-25,2023-09-20,35000000,30645608,app_installs,completed
+CAM0361,CLT049,Retargeting Q3,TikTok,2022-07-02,2022-08-13,27000000,24155970,conversions,completed
+CAM0362,CLT027,Retargeting Q1,TikTok,2024-02-01,2024-03-19,42000000,38170029,awareness,completed
+CAM0363,CLT031,Retargeting Q2,IG,2022-05-26,2022-08-08,17000000,16151623,lead_gen,active
+CAM0364,CLT034,Q4 Performance Push,Instagram,2022-11-05,2022-12-06,17000000,15615077,lead_gen,completed
+CAM0365,CLT010,Lead Gen Fintech,instagram,2023-01-05,2023-01-29,36000000,32994932,conversions,active
+CAM0366,CLT041,Lead Gen Fashion,Instagram,2023-07-15,2023-08-24,15000000,14478836,lead_gen,completed
+CAM0367,CLT049,Independence Day 2024,Google,2024-06-07,2024-08-14,30000000,28074152,lead_gen,completed
+CAM0368,CLT001,Christmas Sale 2024,Instagram,2024-02-04,2024-02-19,25000000,25034238,traffic,completed
+CAM0369,CLT002,Harbolnas 2023,Google,2023-04-09,2023-06-06,24000000,21018867,app_installs,active
+CAM0370,CLT038,Christmas Sale 2022,Instagram,2022-04-04,2022-05-26,23000000,21647261,app_installs,completed
+CAM0371,CLT034,Year End Promo 2022,instagram,2022-10-02,2022-11-28,36000000,33186606,traffic,completed
+CAM0372,CLT026,Lead Gen Healthcare,Instagram,2022-09-26,2022-11-06,6000000,5807631,awareness,completed
+CAM0373,CLT024,Q1 Performance Push,Facebook,2024-02-08,2024-03-25,39000000,38010451,awareness,paused
+CAM0374,CLT043,Brand Awareness Q2,Instagram,2022-04-09,2022-05-07,31000000,29104748,app_installs,completed
+CAM0375,CLT017,Brand Awareness Q1,Google,2023-02-25,2023-03-12,24000000,22420182,app_installs,completed
+CAM0376,CLT018,Brand Awareness Q2,Google,2024-05-07,2024-06-03,37000000,36768870,conversions,completed
+CAM0377,CLT008,Year End Promo 2023,YouTube,2023-02-11,2023-03-22,21000000,21342295,conversions,active
+CAM0378,CLT046,Conversion Boost 2022,Google,2022-03-22,2022-06-14,36000000,37154567,lead_gen,completed
+CAM0379,CLT022,Lead Gen Fintech,Instagram,2022-07-02,2022-07-30,41000000,40335979,awareness,completed
+CAM0380,CLT050,New Year Campaign 2023,Facebook,2023-06-09,2023-07-22,34000000,35622928,conversions,active
+CAM0381,CLT030,Back to School 2022,Instagram,2022-03-22,2022-05-12,28000000,28288938,lead_gen,completed
+CAM0382,CLT048,Lead Gen Fashion,instagram,2022-04-04,2022-04-19,13000000,12774723,conversions,paused
+CAM0383,CLT023,Lead Gen Healthcare,LinkedIn,2023-07-04,2023-07-29,28000000,28363800,awareness,completed
+CAM0384,CLT026,Awareness Launch 2023,YouTube,2023-07-11,2023-09-12,49000000,49986581,lead_gen,active
+CAM0385,CLT042,Retargeting Q3,Google,2022-08-20,2022-09-19,49000000,48768828,traffic,completed
+CAM0386,CLT007,Q3 Performance Push,LinkedIn,2024-09-15,2024-12-10,48000000,45006362,lead_gen,paused
+CAM0387,CLT050,Harbolnas 2022,Instagram,2022-09-25,2022-12-09,36000000,31413149,lead_gen,completed
+CAM0388,CLT003,Christmas Sale 2023,IG,2023-10-06,2023-10-21,50000000,51183322,app_installs,completed
+CAM0389,CLT047,Brand Awareness Q4,TikTok,2024-11-29,2025-02-17,49000000,48515685,lead_gen,paused
+CAM0390,CLT043,Christmas Sale 2023,YouTube,2023-12-10,2024-02-11,14000000,14249292,app_installs,active
+CAM0391,CLT004,Brand Awareness Q4,Instagram,2024-11-01,2025-01-14,36000000,36859792,lead_gen,active
+CAM0392,CLT021,Harbolnas 2022,Instagram,2022-04-14,2022-07-01,19000000,18241883,lead_gen,active
+CAM0393,CLT016,Brand Awareness Q3,Instagram,2024-07-06,2024-07-31,36000000,33818890,lead_gen,completed
+CAM0394,CLT048,Ramadan Sale 2024,Facebook,2024-04-06,2024-06-11,7000000,6729983,awareness,completed
+CAM0395,CLT039,Independence Day 2024,TikTok,2024-11-07,2025-01-31,18000000,17656545,conversions,completed
+CAM0396,CLT024,Q3 Performance Push,Google,2024-07-19,2024-09-13,40000000,40139331,lead_gen,active
+CAM0397,CLT046,Back to School 2022,YouTube,2022-08-22,2022-09-17,47000000,42034422,conversions,active
+CAM0398,CLT041,Holiday Sale 2024,TikTok,2024-12-05,2025-02-04,49000000,42691957,traffic,completed
+CAM0399,CLT032,Year End Promo 2024,instagram,2024-04-18,2024-05-15,21000000,20415577,awareness,completed
+CAM0400,CLT026,App Install Drive 2023,Instagram,2023-11-24,2023-12-21,31000000,26638302,app_installs,completed
+CAM0401,CLT008,Independence Day 2024,YouTube,2024-07-25,2024-10-22,37000000,32446306,awareness,completed
+CAM0402,CLT034,Awareness Launch 2024,LinkedIn,2024-06-05,2024-09-01,35000000,36220596,traffic,completed
+CAM0403,CLT045,Holiday Sale 2022,Google,2022-08-01,2022-10-03,47000000,45595132,conversions,active
+CAM0404,CLT033,New Year Campaign 2023,YouTube,2023-05-24,2023-07-12,30000000,31281561,lead_gen,completed
+CAM0405,CLT009,Back to School 2024,IG,2024-11-15,2025-01-06,49000000,47018498,app_installs,completed
+CAM0406,CLT041,Conversion Boost 2023,Instagram,2023-08-19,2023-10-16,48000000,42073648,traffic,completed
+CAM0407,CLT033,Q3 Performance Push,TikTok,2022-08-25,2022-10-23,40000000,37842959,lead_gen,completed
+CAM0408,CLT044,Ramadan Sale 2023,LinkedIn,2023-08-09,2023-10-16,5000000,4772729,lead_gen,active
+CAM0409,CLT010,App Install Drive 2023,Instagram,2023-02-14,2023-04-03,15000000,15700597,conversions,active
+CAM0410,CLT010,Independence Day 2023,TikTok,2023-02-22,2023-05-16,7000000,6452155,awareness,completed
+CAM0411,CLT040,Awareness Launch 2023,LinkedIn,2023-04-05,2023-06-29,29000000,26028053,conversions,completed
+CAM0412,CLT045,Christmas Sale 2024,YouTube,2024-03-04,2024-05-10,48000000,43801478,awareness,completed
+CAM0413,CLT001,App Install Drive 2024,Google,2024-06-26,2024-08-07,45000000,44591661,conversions,paused
+CAM0414,CLT049,App Install Drive 2023,LinkedIn,2023-02-07,2023-03-17,23000000,21614548,awareness,active
+CAM0415,CLT012,Christmas Sale 2022,LinkedIn,2022-09-02,2022-11-03,7000000,6549910,conversions,completed
+CAM0416,CLT009,Lead Gen Healthcare,Instagram,2022-01-12,2022-03-09,34000000,33725887,awareness,completed
+CAM0417,CLT010,Christmas Sale 2022,LinkedIn,2022-04-15,2022-06-06,36000000,36287338,conversions,paused
+CAM0418,CLT005,Awareness Launch 2024,TikTok,2024-12-12,2025-01-23,16000000,15265940,app_installs,completed
+CAM0419,CLT011,Year End Promo 2024,LinkedIn,2024-04-06,2024-05-01,27000000,24144469,conversions,completed
+CAM0420,CLT022,App Install Drive 2024,Instagram,2024-12-22,2025-03-06,40000000,40589507,awareness,completed
+CAM0421,CLT008,Back to School 2023,YouTube,2023-05-08,2023-06-22,7000000,6905571,lead_gen,completed
+CAM0422,CLT008,Back to School 2023,IG,2023-08-03,2023-08-20,38000000,38548028,app_installs,completed
+CAM0423,CLT033,Brand Awareness Q3,Facebook,2023-08-31,2023-10-08,25000000,23819473,traffic,completed
+CAM0424,CLT050,Year End Promo 2022,Facebook,2022-05-15,2022-06-24,47000000,45867436,lead_gen,active
+CAM0425,CLT007,Independence Day 2024,instagram,2024-06-10,2024-07-03,48000000,42276043,conversions,completed
+CAM0426,CLT003,Retargeting Q4,Instagram,2022-12-31,2023-02-15,40000000,34563536,traffic,completed
+CAM0427,CLT017,App Install Drive 2024,YouTube,2024-04-08,2024-06-16,25000000,21334454,awareness,active
+CAM0428,CLT035,Brand Awareness Q2,instagram,2022-05-10,2022-08-06,7000000,6931234,conversions,active
+CAM0429,CLT033,Independence Day 2023,instagram,2023-09-10,2023-10-05,23000000,23070261,lead_gen,active
+CAM0430,CLT026,Conversion Boost 2024,Facebook,2024-08-28,2024-10-01,39000000,34864952,lead_gen,completed
+CAM0431,CLT035,Awareness Launch 2022,IG,2022-10-23,2022-12-14,48000000,49314989,conversions,completed
+CAM0432,CLT001,Q4 Performance Push,LinkedIn,2022-10-17,2022-11-15,7000000,5957041,lead_gen,completed
+CAM0433,CLT035,Holiday Sale 2023,Facebook,2023-09-17,2023-10-27,27000000,24093379,app_installs,completed
+CAM0434,CLT010,Awareness Launch 2023,Instagram,2023-06-02,2023-07-10,12000000,10635259,app_installs,completed
+CAM0435,CLT004,Brand Awareness Q3,LinkedIn,2024-08-02,2024-10-25,9000000,8173174,conversions,completed
+CAM0436,CLT007,App Install Drive 2024,IG,2024-09-24,2024-11-19,27000000,23642361,traffic,paused
+CAM0437,CLT007,Q1 Performance Push,Instagram,2023-02-01,2023-03-27,36000000,33844651,conversions,completed
+CAM0438,CLT045,Back to School 2024,LinkedIn,2024-01-17,2024-03-11,32000000,28279292,traffic,completed
+CAM0439,CLT015,Back to School 2023,YouTube,2023-07-21,2023-09-19,13000000,12816908,lead_gen,paused
+CAM0440,CLT030,Q3 Performance Push,TikTok,2024-09-24,2024-12-17,11000000,9736694,awareness,active
+CAM0441,CLT018,Brand Awareness Q1,Google,2023-02-07,2023-03-26,45000000,38938161,awareness,completed
+CAM0442,CLT033,Christmas Sale 2024,LinkedIn,2024-04-09,2024-07-07,18000000,18562692,conversions,completed
+CAM0443,CLT035,Holiday Sale 2024,LinkedIn,2024-08-24,2024-09-26,28000000,25997990,app_installs,completed
+CAM0444,CLT047,Back to School 2024,Google,2024-08-09,2024-10-26,37000000,32120099,app_installs,active
+CAM0445,CLT001,Lead Gen Property,LinkedIn,2022-12-06,2023-02-23,13000000,12210173,app_installs,completed
+CAM0446,CLT037,Independence Day 2024,Google,2024-09-17,2024-11-15,7000000,6256346,traffic,completed
+CAM0447,CLT005,Back to School 2022,Instagram,2022-03-29,2022-05-08,38000000,39198718,lead_gen,completed
+CAM0448,CLT031,Christmas Sale 2022,Facebook,2022-03-23,2022-05-17,11000000,10898219,conversions,active
+CAM0449,CLT048,Q4 Performance Push,IG,2022-12-23,2023-02-23,46000000,42582370,awareness,completed
+CAM0450,CLT034,Back to School 2024,Instagram,2024-11-23,2025-01-27,27000000,27363078,lead_gen,active
+CAM0451,CLT031,Brand Awareness Q4,Facebook,2024-10-24,2024-11-24,33000000,29142998,app_installs,completed
+CAM0452,CLT042,Retargeting Q1,Instagram,2023-01-18,2023-02-21,28000000,27171313,awareness,completed
+CAM0453,CLT043,Year End Promo 2022,Instagram,2022-08-21,2022-11-04,48000000,45396620,app_installs,active
+CAM0454,CLT011,Q1 Performance Push,YouTube,2022-02-15,2022-04-01,7000000,6129039,traffic,active
+CAM0455,CLT009,Lead Gen Healthcare,Facebook,2022-10-28,2022-11-18,15000000,13524778,app_installs,completed
+CAM0456,CLT026,Q1 Performance Push,LinkedIn,2022-02-08,2022-03-30,10000000,8933186,lead_gen,completed
+CAM0457,CLT031,Christmas Sale 2022,Instagram,2022-10-20,2023-01-16,16000000,15594277,conversions,paused
+CAM0458,CLT011,Harbolnas 2024,TikTok,2024-07-17,2024-10-15,42000000,36278280,lead_gen,paused
+CAM0459,CLT009,Lead Gen Healthcare,Instagram,2024-12-06,2025-02-22,48000000,44830032,app_installs,active
+CAM0460,CLT007,Brand Awareness Q1,IG,2022-03-21,2022-06-11,37000000,37017635,lead_gen,paused
+CAM0461,CLT043,Retargeting Q1,IG,2022-01-03,2022-03-13,38000000,35497198,awareness,completed
+CAM0462,CLT045,Conversion Boost 2024,Google,2024-09-14,2024-11-15,27000000,26130859,app_installs,active
+CAM0463,CLT007,Holiday Sale 2024,TikTok,2024-09-04,2024-10-17,10000000,9066533,app_installs,completed
+CAM0464,CLT027,Ramadan Sale 2022,Instagram,2022-01-15,2022-04-12,38000000,33195497,lead_gen,active
+CAM0465,CLT042,App Install Drive 2024,Instagram,2024-04-17,2024-06-16,11000000,9690512,app_installs,completed
+CAM0466,CLT017,App Install Drive 2024,IG,2024-05-17,2024-08-11,28000000,27226531,lead_gen,active
+CAM0467,CLT049,Independence Day 2024,IG,2024-09-15,2024-10-21,28000000,26930925,conversions,completed
+CAM0468,CLT020,Conversion Boost 2022,YouTube,2022-10-10,2022-11-08,19000000,17847060,traffic,completed
+CAM0469,CLT007,Conversion Boost 2023,Instagram,2023-11-25,2024-02-17,44000000,43534105,awareness,completed
+CAM0470,CLT011,Q1 Performance Push,IG,2022-01-11,2022-02-05,14000000,13220672,lead_gen,paused
+CAM0471,CLT006,Harbolnas 2024,Instagram,2024-01-30,2024-02-23,43000000,36874695,lead_gen,completed
+CAM0472,CLT040,Ramadan Sale 2022,TikTok,2022-04-28,2022-06-03,45000000,42699315,traffic,active
+CAM0473,CLT043,Christmas Sale 2023,LinkedIn,2023-08-09,2023-09-16,7000000,7047543,app_installs,active
+CAM0474,CLT045,Lead Gen FMCG,Instagram,2022-03-15,2022-05-14,20000000,19620076,awareness,completed
+CAM0475,CLT018,Ramadan Sale 2024,TikTok,2024-03-20,2024-05-24,42000000,37382607,awareness,active
+CAM0476,CLT006,Year End Promo 2023,LinkedIn,2023-12-14,2024-02-10,22000000,19695700,lead_gen,completed
+CAM0477,CLT026,Brand Awareness Q4,TikTok,2022-12-25,2023-03-01,37000000,32237840,app_installs,paused
+CAM0478,CLT019,Q4 Performance Push,Instagram,2024-11-17,2025-01-02,39000000,39492549,conversions,completed
+CAM0479,CLT045,Independence Day 2024,YouTube,2024-09-17,2024-11-01,26000000,27098441,lead_gen,active
+CAM0480,CLT038,Awareness Launch 2022,YouTube,2022-08-27,2022-10-13,9000000,8338811,traffic,completed
+CAM0481,CLT044,Conversion Boost 2024,TikTok,2024-04-24,2024-06-22,38000000,36370954,conversions,completed
+CAM0482,CLT016,Independence Day 2023,Instagram,2023-12-02,2023-12-25,40000000,41451169,conversions,active
+CAM0483,CLT023,Year End Promo 2023,IG,2023-07-06,2023-08-12,48000000,49730450,lead_gen,paused
+CAM0484,CLT048,Retargeting Q2,instagram,2023-05-11,2023-06-27,18000000,16125147,traffic,completed
+CAM0485,CLT040,App Install Drive 2022,instagram,2022-08-07,2022-09-05,10000000,9851624,lead_gen,active
+CAM0486,CLT040,Independence Day 2022,IG,2022-03-28,2022-06-11,28000000,27275737,app_installs,completed
+CAM0487,CLT018,Lead Gen Property,LinkedIn,2023-07-28,2023-09-30,19000000,19000643,awareness,completed
+CAM0488,CLT034,App Install Drive 2022,YouTube,2022-03-08,2022-05-25,27000000,25076071,traffic,completed
+CAM0489,CLT030,App Install Drive 2024,LinkedIn,2024-07-31,2024-09-23,49000000,41732502,traffic,completed
+CAM0490,CLT025,Year End Promo 2024,TikTok,2024-01-11,2024-02-27,16000000,15355402,conversions,completed
+CAM0491,CLT031,Harbolnas 2024,TikTok,2024-01-20,2024-02-26,36000000,33652388,conversions,completed
+CAM0492,CLT024,Q3 Performance Push,TikTok,2024-07-12,2024-08-18,41000000,35925341,traffic,completed
+CAM0493,CLT007,Conversion Boost 2024,Google,2024-06-04,2024-08-05,17000000,14945868,traffic,paused
+CAM0494,CLT031,Retargeting Q2,Google,2024-05-13,2024-07-29,13000000,13638460,app_installs,completed
+CAM0495,CLT035,Ramadan Sale 2023,YouTube,2023-09-07,2023-10-23,40000000,40868015,lead_gen,active
+CAM0496,CLT007,Brand Awareness Q1,Facebook,2023-03-18,2023-05-03,35000000,35622801,lead_gen,active
+CAM0497,CLT048,New Year Campaign 2024,Instagram,2024-01-08,2024-04-02,40000000,41454756,conversions,paused
+CAM0498,CLT002,Christmas Sale 2023,TikTok,2023-02-12,2023-05-10,41000000,40178896,traffic,paused
+CAM0499,CLT050,Harbolnas 2024,Instagram,2024-11-11,2025-01-26,33000000,33921574,app_installs,completed
+CAM0500,CLT019,Q4 Performance Push,Google,2022-12-10,2023-02-05,31000000,30263895,lead_gen,completed

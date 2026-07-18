@@ -1,0 +1,51 @@
+client_id,company_name,industry,monthly_budget_idr,contract_start,contract_status,account_manager,city
+CLT001,PT Properti Global,Property,96000000,2022-10-07,paused,Reza Hartono,Surabaya
+CLT002,PT Estat Prima,Property,87000000,2023-07-29,paused,Maya Permana,Jakarta
+CLT003,PT Bayar Mandiri,Fintech,100000000,2024-02-24,active,Putri Wijaya,Semarang
+CLT004,CV Maju Prima,FMCG,79000000,2023-03-29,active,Hendra Nugroho,Jakarta
+CLT005,PT Trend Sentral,Fashion E-commerce,68000000,2021-07-06,active,Dewi Lestari,Jakarta
+CLT006,PT Belajar Digital,Education,25000000,2023-05-15,active,Andi Saputra,Jakarta
+CLT007,PT Estat Global,Property,64000000,2023-12-20,active,Putri Wijaya,Bandung
+CLT008,PT Sentosa Digital,FMCG,97000000,2021-08-23,active,Putri Wijaya,Makassar
+CLT009,PT Medis Sejahtera,Healthcare,42000000,2023-06-10,active,Maya Permana,Jakarta
+CLT010,PT Pinjam Cemerlang,Fintech,97000000,2022-06-24,active,Maya Permana,Bandung
+CLT011,PT Sehat Digital,Healthcare,43000000,2023-11-06,active,Reza Hartono,Jakarta
+CLT012,PT Dana Indonesia,Fintech,74000000,2023-12-23,active,Dewi Lestari,Surabaya
+CLT013,PT Sukses Utama,FMCG,7000000,2021-08-18,paused,Hendra Nugroho,Jakarta
+CLT014,PT Trend Nusantara,Fashion E-commerce,35000000,2024-03-07,active,Andi Saputra,Jakarta
+CLT015,CV Nikmat Sejahtera,F&B,73000000,2021-09-15,active,Maya Permana,Surabaya
+CLT016,CV Nikmat Sentral,F&B,26000000,2022-06-27,terminated,Sari Halim,Jakarta
+CLT017,CV Maju Cemerlang,FMCG,93000000,2022-02-16,terminated,Putri Wijaya,Jakarta
+CLT018,PT Bumi Utama,Property,71000000,2023-07-14,active,Andi Saputra,Jakarta
+CLT019,PT Sajian Sejahtera,F&B,48000000,2021-02-13,active,Reza Hartono,Bandung
+CLT020,PT Mode Cemerlang,Fashion E-commerce,85000000,2021-05-01,active,Reza Hartono,Jakarta
+CLT021,PT Edukasi Abadi,Education,14000000,2023-11-19,active,Reza Hartono,Jakarta
+CLT022,PT Finansial Mandiri,Fintech,74000000,2021-09-28,active,Fajar Setiawan,Jakarta
+CLT023,PT Farma Prima,Healthcare,29000000,2021-07-13,active,Andi Saputra,Surabaya
+CLT024,CV Karya Abadi,Other,59000000,2023-04-22,active,Fajar Setiawan,Medan
+CLT025,PT Rasa Digital,F&B,88000000,2021-07-21,active,Dewi Lestari,Jakarta
+CLT026,PT Klinik Mandiri,Healthcare,29000000,2024-01-04,terminated,Fajar Setiawan,Jakarta
+CLT027,PT Estat Indonesia,Property,40000000,2023-08-06,active,Reza Hartono,Jakarta
+CLT028,PT Finansial Sentral,Fintech,17000000,2021-04-14,active,Dewi Lestari,Jakarta
+CLT029,PT Properti Indonesia,Property,57000000,2023-09-22,active,Fajar Setiawan,Jakarta
+CLT030,PT Pintar Nusantara,Education,26000000,2023-02-16,active,Dewi Lestari,Jakarta
+CLT031,PT Cerdas Utama,Education,41000000,2023-05-17,active,Fajar Setiawan,Jakarta
+CLT032,PT Sajian Bersama,F&B,32000000,2021-04-30,terminated,Dewi Lestari,Semarang
+CLT033,PT Medis Nusantara,Healthcare,11000000,2024-04-11,active,Fajar Setiawan,Bandung
+CLT034,PT Ilmu Indonesia,Education,12000000,2023-11-07,paused,Andi Saputra,Jakarta
+CLT035,PT Sentosa Global,FMCG,13000000,2022-04-27,terminated,Sari Halim,Jakarta
+CLT036,PT Solusi Mandiri,Other,79000000,2024-05-02,paused,Dewi Lestari,Surabaya
+CLT037,PT Mitra Prima,Other,89000000,2024-04-10,active,Hendra Nugroho,Jakarta
+CLT038,PT Trend Digital,Fashion E-commerce,96000000,2022-10-06,active,Reza Hartono,Jakarta
+CLT039,PT Bumi Sejahtera,Property,6000000,2023-07-28,active,Andi Saputra,Jakarta
+CLT040,PT Lezat Mandiri,F&B,69000000,2022-06-28,active,Maya Permana,Jakarta
+CLT041,PT Mode Mandiri,Fashion E-commerce,52000000,2022-08-07,active,Maya Permana,Jakarta
+CLT042,PT Lezat Cemerlang,F&B,43000000,2023-12-20,active,Dewi Lestari,Surabaya
+CLT043,PT Fashion Bersama,Fashion E-commerce,89000000,2021-08-01,paused,Maya Permana,Jakarta
+CLT044,PT Sentosa Sejahtera,FMCG,100000000,2024-02-08,paused,Maya Permana,Jakarta
+CLT045,PT Sukses Global,FMCG,31000000,2022-12-04,active,Reza Hartono,Surabaya
+CLT046,PT Sukses Sentral,FMCG,67000000,2022-05-30,active,Dewi Lestari,Jakarta
+CLT047,PT Finansial Bersama,Fintech,10000000,2021-01-08,active,Hendra Nugroho,Makassar
+CLT048,CV Gaya Indonesia,Fashion E-commerce,99000000,2023-06-24,active,Sari Halim,Bandung
+CLT049,PT Mode Sejahtera,Fashion E-commerce,14000000,2021-11-02,active,Dewi Lestari,Jakarta
+CLT050,PT Lezat Sentral,F&B,23000000,2023-05-31,active,Maya Permana,Jakarta
